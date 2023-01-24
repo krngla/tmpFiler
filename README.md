@@ -1,0 +1,1 @@
+Simple package for writing and reading tempfiles in "os.TempDir()"
