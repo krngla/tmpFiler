@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	subpath = "myTempfiler"
+	subpath = "tmpfiler"
 )
 
 func OpenRead(name string) (string, error) {
