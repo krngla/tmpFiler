@@ -1,3 +1,3 @@
-module github.com/krngla/tmpFiler
+module github.com/krngla/tmpfiler
 
 go 1.19

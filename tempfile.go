@@ -1,5 +1,5 @@
 // myTempfiler is a package that provides a simple way to create and read temporary files
-package myTempfiler
+package tmpfiler
 
 import (
 	"bufio"

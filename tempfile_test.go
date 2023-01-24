@@ -1,4 +1,4 @@
-package myTempfiler
+package tmpfiler
 
 import (
 	"testing"
