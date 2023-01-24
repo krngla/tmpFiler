@@ -1,4 +1,4 @@
-// myTempfiler is a package that provides a simple way to create and read temporary files
+// tmpfiler is a package that provides a simple way to create and read temporary files
 package tmpfiler
 
 import (
